@@ -1,0 +1,52 @@
+{
+  "name": "Fuentes en Español",
+  "author": "MiRepositorio",
+  "version": "1.2.0",
+  "sources": [
+    {
+      "id": "mangadex-es",
+      "name": "MangaDex (Español)",
+      "baseUrl": "https://mangadex.org",
+      "lang": "es",
+      "version": "1.0.0",
+      "icon": "https://mangadex.org/favicon.ico",
+      "type": "manga"
+    },
+    {
+      "id": "inmanga-es",
+      "name": "InManga",
+      "baseUrl": "https://inmanga.com",
+      "lang": "es",
+      "version": "1.0.0",
+      "icon": "https://inmanga.com/favicon.ico",
+      "type": "manga"
+    },
+    {
+      "id": "tmo-es",
+      "name": "TuMangaOnline (TMO)",
+      "baseUrl": "https://visortmo.com",
+      "lang": "es",
+      "version": "1.0.0",
+      "icon": "https://visortmo.com/favicon.ico",
+      "type": "manga"
+    },
+    {
+      "id": "lectormanga-es",
+      "name": "LectorManga",
+      "baseUrl": "https://lectormanga.com",
+      "lang": "es",
+      "version": "1.0.0",
+      "icon": "https://lectormanga.com/favicon.ico",
+      "type": "manga"
+    },
+    {
+      "id": "heavenmanga-es",
+      "name": "HeavenManga",
+      "baseUrl": "https://heavenmanga.com",
+      "lang": "es",
+      "version": "1.0.0",
+      "icon": "https://heavenmanga.com/favicon.ico",
+      "type": "manga"
+    }
+  ]
+}
